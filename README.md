@@ -1,0 +1,1 @@
+Happy3D-Qt_local_repository
